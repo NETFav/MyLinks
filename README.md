@@ -5,4 +5,4 @@ Description : MyLinks is basically a desktop application where you can save link
 * Create Title and Links
 * Save/Clear
 * Open the Link
-* Open from Chromee, Edge or Your Default Browser
+* Open from Chrome, Edge or Your Default Browser
